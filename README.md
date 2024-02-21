@@ -30,4 +30,4 @@ python3 chatgpt.py
 
 demo:
 
-![query with AI](https://github.com/tmtuan8017/ai-chatgpt/blob/master/demo/ai-demo.png?raw=true)
+![query with AI](https://github.com/tu801/ai-chatbot/blob/master/demo/ai-demo.png?raw=true)
