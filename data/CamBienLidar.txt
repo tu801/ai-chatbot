@@ -1,0 +1,126 @@
+Tìm hiểu cảm biến LiDAR là gì: Nguyên lý hoạt động và ứng dụng trên ô tô
+
+Nhiều năm về trước, ngành công nghiệp ô tô đã có những nhen nhóm đầu tiên trong việc thực hiện ước mơ về một chiếc xe hơi tự lái trang bị cảm biến LiDAR ưu việt.
+Nếu là một người yêu công nghệ, chắc hẳn bạn đã từng nghe đến cảm biến LiDAR - một công nghệ đã và đang đem lại rất nhiều lợi ích cho ngành công nghiệp xe hơi trên toàn thế giới. Trong số đó, xe ô tô điện tự hành chính là một ứng dụng phổ biến nhất hiện nay của cảm biến LiDAR trên ô tô.
+
+Tìm hiểu cảm biến LiDAR là gì?
+Cảm biến LiDAR - Light Detection And Ranging là công nghệ sử dụng ánh sáng tia laser đo khoảng cách và xây dựng bản đồ 3D trên ô tô của vật thể. Bằng cách phát ra chùm tia laser có công suất thấp tới môi trường và nhận về rồi tiếp nhận ánh sáng phản chiếu ngược lại phần cứng để xử lý. Từ dữ liệu đó, hệ thống sẽ xây dựng bản đồ 3D mô phỏng không gian, đồ vật và con người.
+
+Tìm hiểu cảm biến LiDAR là gì
+Cảm biến LiDAR sử dụng ánh sáng laser đo khoảng cách vật (Nguồn: Sưu tầm)
+
+Mặc dù cảm biến LiDAR đã xuất hiện từ rất sớm vào những thập niên 60. Lúc này hệ thống LiDAR được trang bị trên máy bay quân sự. Thế nhưng, phải đến hơn 20 năm sau, LiDAR mới dần trở nên phổ biến hơn nhờ vào sự xuất hiện của hệ thống định vị GPS.
+
+ - Chức năng của công nghệ LiDAR:
+
+LiDAR được ứng dụng trong ngành công nghiệp ô tô, Robot, đóng vai trò như là một “xúc giác” kỹ thuật số. Các cảm biến công nghệ LiDAR sử dụng tia hồng ngoại để phát hiện các vật thể xung quanh. Cảm biến LiDAR tạo ra hình ảnh ba chiều chính xác nhất về mọi thứ xảy ra như: Các phương tiện, con người… trong nhiều môi trường khác nhau và điều kiện ánh sáng khác nhau.
+
+ - Cách thức hoạt động của hệ thống LiDAR:
+
+Hệ thống LiDAR sẽ phát xạ xung laser quay liên tục 360 độ, ghi lại thông tin tín hiệu và trả về tín hiệu khoảng cách 3D của những vật thể xung quanh. Với cơ chế hoạt động chiếu hàng triệu điểm khi quay laser liên tục, hệ thống cảm biến LiDAR có thể đo được khoảng cách giữa các vật thể. Dữ liệu truyền về là những mây điểm (Point Cloud), sau đó sẽ được xây dựng bản đồ số 3D.
+
+Ứng dụng cảm biến LiDAR trong ngành công nghiệp ô tô điện
+Công nghệ cảm biến LiDAR trên ô tô lần đầu tiên xuất hiện vào năm 2018 khi mà một hãng xe nổi tiếng sử dụng cảm biến LiDAR gắn trên xe tải để thiết lập bản đồ 3D chính xác. Mọi dữ liệu sẽ được đưa vào các dòng xe cho phép chúng tự định vị và điều hướng khi lưu thông trên các tuyến đường cao tốc của Hoa Kỳ với độ chính xác cực kỳ cao.
+
+Công nghệ LiDAR là gì? Ưu điểm khi sử dụng công nghệ LiDAR trong thu thập dữ liệu
+
+Ngày nay, chúng ta thường nghe đến thuật ngữ công nghệ LiDAR ngày càng phổ biến, vậy thuật ngữ này là gì? Ưu điểm của công nghệ LiDAR là gì? Và thiết bị nào sử dụng công nghệ LiDAR? Hãy cũng Đất Hợp tìm hiểu qua bài viết dưới đây.
+
+Các nội dung chính
+Công nghệ LiDAR là gì?
+Ưu điểm khi sử dụng công nghệ LiDAR trong thu thập dữ liệu
+– Khả năng thu thập dữ liệu tầm xa, độ chính xác và mức độ chi tiết cao
+– Đảm bảo an toàn cho người vận hành, thời gian thu thập dữ liệu nhanh
+– Dữ liệu được ứng dụng vào nhiều lĩnh vực và sản phẩm đầu ra đa dạng
+Công nghệ LiDAR là gì?
+LiDAR viết tắt từ cụm từ Light Detection and Ranging, nguyên tắc hoạt động của LiDAR có thể được miêu tả bằng quá trình: Cảm biến sẽ phát ra một xung laser tới bề mặt, một cảm biến sẽ thu nhận thông tín hiệu phản xạ trở lại nguồn xung, sau đó cảm biến sẽ đo khoảng thời gian laser phản xạ lại.
+
+Cách tính toán khoảng cách với công thức: R = (c*t)/2
+
+Trong đó:
+
+R = Khoảng cách từ nguồn phát laser tới bề mặt cần đo.
+c = Tốc độ phát đi.
+t = Quãng thời gian đi được.
+Quá trình này sẽ được lặp lại hàng triệu lần bởi cảm biến LiDAR, thu được dữ liệu lên đến hàng triệu điểm. Khi kết hợp lại với nhau, các điểm này tạo thành một đám mây điểm 3D – Point Cloud, một tập hợp các dữ liệu điểm trong không gian thể hiện hình dạng hoặc đối tượng 3D một cách chi tiết và chính xác.
+
+Mô phỏng quá trình đo bằng công nghệ LiDAR để thu được dữ liệu đám mây điểm
+
+Hình 1. Mô phỏng quá trình đo bằng công nghệ LiDAR để thu được dữ liệu đám mây điểm.
+
+Hai phương pháp kỹ thuật chính để đo khoảng cách là Phương pháp thời gian di chuyển (Time-of-flight) và Phương pháp đo dịch chuyển pha (Phase shift).
+
+Ưu điểm khi sử dụng công nghệ LiDAR trong thu thập dữ liệu
+Trong các phương pháp thu thập dữ liệu, công nghệ LiDAR cho phép thu thập dữ liệu một cách cực kì chính xác, chi tiết cao mà vẫn đảm bảo an toàn cho người vận hành (đo không tiếp xúc) với những ưu điểm ưu việt như sau:
+
+– Khả năng thu thập dữ liệu tầm xa, độ chính xác và mức độ chi tiết cao
+Với cảm biến LiDAR, người ta chia ra thành 3 loại chính như sau:
+
+Quét LiDAR hàng không (Airborne Laser Scanning hay UAV LiDAR).
+Quét LiDAR mặt đất (Terrestrial Laser Scanners).
+Quét LiDAR di động (Mobile Laser Scanning hay Mobile Mapping).
+Mỗi loại đều có thông số kỹ thuật riêng như sau:
+
+Hạng mục	UAV LiDAR	Quét LiDAR mặt đất	Mobile Mapping
+Tầm quét (lý thuyết)	70m – 300m	0.6m – 600m	0.6m – 420m
+Độ chính xác	2.5cm – 5cm	2mm – 5mm	2cm – 5cm
+Thiết bị tiêu biểu	YellowScan Mapper, YellowScan Explorer	Trimble X7, Trimble TX8, Trimble SX12	Trimble MX50, Trimble MX9
+Hình ảnh thiết bị	Công nghệ LiDAR là gì? Ưu điểm khi sử dụng công nghệ LiDAR trong thu thập dữ liệu	1 Công nghệ LiDAR là gì? Ưu điểm khi sử dụng công nghệ LiDAR trong thu thập dữ liệu	2 Công nghệ LiDAR là gì? Ưu điểm khi sử dụng công nghệ LiDAR trong thu thập dữ liệu
+– Đảm bảo an toàn cho người vận hành, thời gian thu thập dữ liệu nhanh
+Một hệ thống LiDAR cơ bản sẽ bao gồm:
+
+Laser Scanner.
+Hệ thống định vị và điều hướng (GNSS – IMU), có trên hệ thống LiDAR trên không và di động.
+Công nghệ tính toán.
+Hệ thống LiDAR có thể đặt tĩnh hoặc gắn trên các hệ thống di động khác nhau (ô tô, máy bay, máy bay không người lái …). Nhờ tầm quét xa, thời gian quét nhanh và không tiếp xúc gần với khu vực cần khảo sát, vì thế người vận hành các hệ thống LiDAR có thể thu thập dữ liệu ở các khu vực khó khăn mà không sợ nguy hiểm.
+
+Thời gian quét trung bình một trạm quét LiDAR mặt đất có thể từ 1 – 4 phút tùy cài đặt, đối với hệ thống LiDAR di động và trên không, thời gian quét có thể cao hơn tùy thuộc vào phạm vi cần khảo sát.
+
+Vận hành thiết bị quét LiDAR mặt đất
+
+Hình 2. Vận hành thiết bị quét LiDAR mặt đất
+
+Vận hành hệ thống LiDAR trên không
+
+Hình 3. Vận hành hệ thống LiDAR trên không.
+
+– Dữ liệu được ứng dụng vào nhiều lĩnh vực và sản phẩm đầu ra đa dạng
+Vì dữ liệu quét LiDAR có độ chính xác và mức độ chi tiết cực kì cao, thể hiện hình dạng các đối tượng dưới dạng đám mây điểm 3D đầy đủ thông tin nên dữ liệu đám mây điểm Point Cloud từ cảm biến LiDAR có thể được ứng dụng vào nhiều lĩnh vực khác nhau, có thể sử dụng làm đầu vào để phục vụ xây dựng các sản phẩm đa dạng như:
+
+Bản sao kỹ thuật số 3D dưới dạng đám mây điểm của đối tượng.
+Đầu vào cho ứng dụng Scan to Bim.
+Phục vụ xây dựng các mô hình số DTM, DSM, DEM.
+Phục vụ việc thành lập bản đồ số 3D, bản đồ địa hình…
+Bản sao kỹ thuật số 3D dưới dạng đám mây điểm của công trình cảng Cái Mép – Thị Vải được Công ty PortCoast thu thập bằng thiết bị Trimble SX12 và Trimble MX50
+
+Hình 4. Bản sao kỹ thuật số 3D dưới dạng đám mây điểm của công trình cảng Cái Mép – Thị Vải được Công ty PortCoast thu thập bằng thiết bị Trimble SX12 và Trimble MX50.
+
+
+LIDAR, công nghệ quét laser từ trên không đang giúp cách mạng hóa ngành khảo cổ học
+
+Lidar_ban_do_Campuchia.png
+Bản đồ địa hình của thành phố cổ Mahendraparvata, Campuchia vẽ bằng LIDAR​
+Tuần trước, một đoàn thám hiểm dẫn đầu bởi nhà khảo cổ học người Úc Damien Evans đã gây chấn động giới nghiên cứu khi khám phá ra Mahendraparvata, một thành phố bị chôn vùi với niên đại 1.200 năm nằm trong một khu rừng ở Campuchia. Địa điểm phát hiện ra Mahendraparvata cũng khá gần đền Angkor Wat nổi tiếng. Suốt hàng nghìn năm, di tích này nằm im lìm trong rừng cây và chỉ đến khi người ta sử dụng một công nghệ với tên gọi LIDAR thì nó mới lộ diện. LIDAR là hệ thống được dùng để vẽ bản đồ địa hình từ trên không bằng tia laser. Các nhà khảo cổ đã sử dụng nó để quét qua 37 nghìn hecta để rồi phát hiện ra nhiều đền đài được nối với nhau bằng một hệ thống đường xá mà nhìn từ vệ tinh hay đi địa sát thì không thấy gì. Vậy hệ thống này hoạt động như thế nào, mời các bạn cùng theo dõi.
+LIDAR là gì?
+LIDAR (đọc là Lai-đa) là chữ viết tắt của Laser Imaging, Detection, and Ranging. Theo giải thích của Cơ quan khí tượng thủy văn Mỹ, LIDAR có thể phát ra tối đa 200.000 xung laser trong mỗi giây. Một bộ lidar cơ bản bao gồm một máy phát laser, một máy scan, một bộ thu nhận GPS được tùy biến. Máy bay và trực thăng là hai loại phương tiện có thể dùng LIDAR để quét một diện tích rộng. Có hai loại LIDAR: topographic và bathymetric. LIDAR Topographic sử dụng các laser có màu cận với hồng ngoại để vẽ bản đồ mặt đất, trong khi LIDAR Bathymetric sử dụng laser xanh lá có khả năng xuyên qua nước để đo tầng đáy biển cũng như lòng sông.
+Vậy dữ liệu LIDAR được thu thập như thế nào? Khi một chùm laser được chiều vào một điểm trên mặt đất, chùm sáng này sẽ bị phản xạ lại. Một cảm biến sẽ thu nhận thông tin của chùm phản xạ để đo khoảng cách dựa theo thời gian di chuyển của xung laser. Kết hợp với dữ liệu về vị trí và phương hướng từ hệ thống GPS cũng như bộ đo quán tính, bộ quét góc, dữ liệu sẽ được đưa ra thành một tập hợp các điểm, gọi là "point cloud". Mỗi point cloud sẽ có tọa độ xác định trong không gian ba chiều (bao gồm kinh độ, vĩ độ và cao độ) tương ứng với vị trí của nó trên bề mặt Trái Đất. Các điểm này sau đó được đem đi dựng thành mô hình.
+lidar.jpg​
+Thực chất LIDAR đã được phát triển từ những năm 1960 và nó đã được dùng trong việc nghiên cứu khí quyển, khí tượng, địa chất bởi Hiệp hội khí tượng thủy văn Mỹ (NOAA) cũng như Tổ chức khảo sát địa lý Hoa Kì. Năm 1994, NASA cũng đã dùng các hệ thống LIDAR bay theo quỹ đạo nhằm giúp giới khoa học hiểu rõ hơn về sự thay đổi của khí hậu cũng như để vẽ bản đồ địa hình của các hành tinh. Gần đây nhất, thành phố New York sử dụng LIDAR để tạo bản đồ 3D của khu Manhattan để phục vụ cho việc cải tiến kế hoạch chống ngập.
+Video NASA giải thích về LIDAR, trong đó có đoạn mô tả đường đi của xung laser rất hay và dễ hiểu
+
+LIDAR cho phép các nhà khoa học nghiên cứu cả môi trường tự nhiên lẫn môi trường nhân tạo với độ chính xác và độ linh hoạt cao. Cơ quan khí tượng thủy văn Mỹ còn dùng LIDAR để vẽ bản đồ đường bờ biển, cung cấp dữ liệu cho các hệ thống thông tin địa lý, trợ giúp cho những chiến dịch phản ứng nhanh...
+LIDAR và ngành khảo cổ học
+Tuy nhiên, ứng dụng LIDAR vào ngành khảo cổ học chỉ mới bắt đầu được chú ý từ năm 2010 khi cặp vợ chồng khảo cổ Arlen/Diane Chase (đến từ Đại học Trung tâm Florida) sử dụng nó để nghiên cứu tàn tích của Caracol, một hành phố cổ của người Maya. Nhờ có LIDAR mà trong vòng 10 tiếng đồng hồ, ông bà Chase đã thu được nhiều dữ liệu địa hình hơn so với việc khám phá khu rừng trong vòng 3 thập kỉ. Từ năm 1983 đến năm 2000, các nhà khảo cỗ vẽ được bản đồ của khoảng 2 nghìn hecta đất. Trong khi đó, với sự giúp đỡ của LIDAR, Chase đã vẽ xong bản đồ của 20 nghìn hecta.
+caracol1.png
+Bên phải là ảnh vẽ bằng LIDAR, bên trái là không ảnh của Cana, một kiến trúc chính trong quần thể di tích Caracol được vẽ bởi vợ chồng nhà khảo cổ Chase​
+Thế nhưng LIDAR không chỉ có tiềm năng phát hiện ra những tòa nhà cỡ lớn. Nó còn có thể cung cấp manh mối về quy hoạch của cả một đô thị bằng cách khám phá những khu chợ, đấu trường, quảng trường cũng như những không gian mở khác. Trong một bài viết hồi năm 2011 cho tờ Journal of Archaeological Sciences, Chase và cộng sự của mình dự đoán rằng LIDAR sẽ thay thế cho phương pháp vẽ bản đồ khảo cổ truyền thống. "Công nghệ này cho phép những nhà khảo cổ ghi chú lại địa hình theo cùng cách mà con người thực hiện, trên nhiều phương diện cùng lúc". Nhóm này cũng từng phát biểu rằng "các nhà khảo cổ ở những vùng nhiệt đới không còn bị giới hạn bởi việc lấy mẫu một cách hạn chế trong bối cảnh bị các tầng cây dày đặc che khuất".
+
+Arlen Chase nói với trang tin The Verge rằng "điều này thật sự là một bước tiến hóa cho ngành khảo cổ. Trong ngành này, không phải lúc nào bạn cũng có đủ hiểu biểu về kích thước mẫu mà bạn thu thập. Rất nhiều lần, bạn chỉ đơn giản là đưa ra những con số ước tính. LIDAR cho phép chúng tôi tưởng tượng ra một không gian chính xác để xây dựng và phiên dịch mẫu".
+Phát hiện về thành phố Caracol có được là nhờ sự trợ giúp của Trung tâm quốc gia về việc vẽ bản đồ từ trên không (NCALM). Được thành lập vào năm 2003, đây là tổ chức phi thương mại duy nhất cung cấp dịch vụ LIDAR cho cộng đồng khoa học. Ngoài việc hợp tác cùng với Chases, NCALM còn giúp phát hiện ra tàn tích của "Cuidad Blanca" - Thành phố Trắng huyền thoại ở Honduras. Bởi vì cả hai dự án nói trên đều thu được kết quả lớn, đại diện của NCALM nói rằng họ nhận thấy ngày càng có nhiều nhà khảo cổ tỏ ra hứng thú với LIDAR. William Carter, một giáo sư tại Đại học Houston và cũng là một nhà khảo sát ở NCALM nói: "Người ta không còn muốn hình ảnh chụp nữa, họ chỉ muốn xem ảnh lidar mà thôi. Thiên nhiên không tự tạo ra các hoa văn hình học trên mặt đất. Đó là những gì con người làm: họ xây nhà, trung tâm thương mại hay kim tự tháp. Khi lidar thu thập được những thứ đó, tự chúng sẽ nhảy về phía bạn".
+Trở ngại trong việc sử dụng LIDAR
+Đúng là giới khảo cổ đang rất quan tâm đến tiềm năng to lớn của LIDAR, tuy nhiên có một vài trở ngại đang ngăn cản việc áp dụng rộng rãi công nghệ này. Vấn đề đầu tiên: tiền đâu? Một hệ thống LIDAR khá đắt tiền, và một lần khảo sát bằng LIDAR có thể tiêu tốn đến 150.000$ (lúc nghiên cứu thành phố Caracol thì chi phí lên tới 170.000$). Mỗi năm, NCALM nhận được khoảng 750.000$ tiền tài trợ, do đó tổ chức này chỉ có thể đài thọ cho một vài dự án khảo sát.
+Vậy còn kế hoạch dài hạn thì sao? Việc sử dụng LIDAR có thể rẻ tiền hơn bằng cách lắp đặt chúng lên những máy bay không người lái (UAV), vốn có khả năng hoạt động trong nhiều ngày liên tục và cũng có thể khám phá một diện tích rộng hơn so với việc sử dụng chiếc Cessna 337 mà NCALM đang áp dụng.
+es_2.jpg
+Chiếc máy bay Cessna 337 được gắn hệ thống LIDAR vẫn còn tốn nhiều kinh phí để hoạt động
+Một thách thức khác của LIDAR, lần này thì nghiên về phía kĩ thuật: LIDAR thu thập được một lượng lớn dữ liệu, và hầu hết các nhà khảo cổ học không có khả năng xử lí hết đống đó. Chase nói rằng "bạn cần phải biết cách viết ra những thuật toán để tìm kiếm một số dữ liệu nhất định trong đống này." Nhà khảo cổ này cho biết thêm rằng ông may mắn có người con trai học về khoa học máy tính lẫn khảo cổ học và anh ta đã viết cho Chase một thuật toán để tìm ra những hệ thống dẫn nước ở Caracol. Cùng với những thuật toán khác, ví dụ như cái được dùng để tìm kiếm hang động, nhóm của Chase đã dựng nên một bức ảnh "chân dung" cho thành phổ cổ đại này.
+Tất nhiên, vai trò của LIDAR trong lĩnh vực khảo cổ chỉ mới ở giai đoạn đầu. Các nhà nghiên cứu đang phát triển những thuật toán mới và đa mục đích, còn ban lãnh đạo NCALM thì hi vọng sẽ thu thập được nhiều dữ liệu LIDAR hơn để có thể phân tích được cỏ ở khu vực khảo sát thuộc loại gì, thành phần đất ra sao. Chase hi vọng LIDAR sẽ là một cuộc cách mạng không chỉ trong cách mà các nhà khảo cổ thực hiện nghiên cứu mà còn hiển nhiều điều hơn từ các nghiên cứu đó. "LIDAR cho chúng ta một cái nhìn tổng thể, một kích thước thật của vũ trụ."

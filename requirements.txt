@@ -1,0 +1,6 @@
+pip>=23.1.2
+langchain
+openai
+chromadb
+tiktoken
+unstructured

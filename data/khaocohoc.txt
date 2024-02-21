@@ -1,0 +1,281 @@
+Cách các nhà khảo cổ học trong thế kỷ 21 nghiên cứu về lịch sử
+
+Nếu bạn còn nghĩ các nhà khảo cổ học trong thế kỷ 21 là những ông già tóc bạc, cầm bay và ngồi cả ngày trong một hố đất bụi bặm, thì bạn đã nhầm. Bây giờ, họ là những người trẻ, đang học cách điều khiển flycam và hướng ánh nhìn của mình lên phía trên bầu trời. Đó là những gì xảy ra sau khi LiDAR, một công nghệ viễn thám bằng laser, tạo ra cuộc cách mạng trong ngành khảo cổ học.
+600 mét phía trên những cánh rừng ở nước cộng hòa Trung Mỹ Guatemala, một chiếc Cessna 206 mang mã hiệu C-GVSC đang ì ì quần thảo khu vực được chỉ định. Cứ mỗi giây trôi qua, nó đều đặn bắn xuống 200.000 xung laser, xuyên qua những tán thông trước khi chạm tới nền rừng và bị dội ngược trở lại.
+
+Nghe giống như thử nghiệm của một loại vũ khí hủy diệt mới. Nhưng không, đây chỉ là một phần của nghiên cứu do Tổ chức Nhân chủng học và Môi trường Hoa Kỳ (FARES) thực hiện.
+
+Những tia laser được phát ra từ một thiết bị gọi là LiDAR có bước sóng 1.550 nm. Ở độ dài bằng với sóng ánh sáng đang chạy qua đường truyền cáp quang nhà bạn, nó gần như vô hại với sinh vật.
+
+
+Khi khảo cổ học cũng có nghĩa là đào xuống từ bầu trời, đây là cách mà LiDAR giúp con người nhìn xuyên về quá khứ.
+
+Các thông số đã được tính toán cẩn thận, đến độ LiDAR chắc chắn không gây tổn hại cho mắt nếu chẳng may liếc phải.
+
+Nhưng công suất của thiết bị vẫn đủ lớn, để chùm sáng tạo ra những tia phản xạ, thứ sẽ quay về cảm biến mà chính chiếc C-GVSC trang bị. Nhờ vào những tia sáng phản xạ này, các nhà khảo cổ ngồi trên máy bay có thể vẽ lại toàn bộ bản đồ của khu vực phía dưới mà không cần xỏ ủng, vào rừng và lập trại.
+
+Rồi họ chỉ cần áp dụng thêm một thuật toán nữa, để lọc bỏ hết những nhiễu loạn mà tán cây tạo ra. Thế là "bùm", trên ảnh chụp được từ không trung, nó giống như một cú búng tay của Thanos đã xóa sổ tất cả thảm thực vật đang mọc dưới mặt đất.
+
+Những gì còn lại chính là thứ mà suốt 2.000 năm qua cánh rừng rậm ở Guatemala đã cất công che giấu: Tàn tích của nền văn minh Maya cổ đại, siêu thành phố, kim tự tháp khổng lồ, và những con đường dát vàng dưới ánh trăng.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 2.
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 3.
+Nếu không có LiDAR, 90% những cấu trúc này sẽ vĩnh viễn bị bỏ quên trong rừng rậm. Giống như những người tí hon bước trên sống lưng của một con khủng long khổng lồ, ngay cả một nhà khảo cổ học kì cựu hàng ngày vẫn đi qua những tàn tích này cũng không thể nhận ra chúng.
+
+Cho tới khi họ nắm trong tay những tia sáng tới từ không trung, thứ được ví như những nhát xẻng đào xuống từ bầu trời, mở ra cái nhìn xuyên qua cả không gian lẫn cả thời gian, tái tạo lại những thành phố từng là biểu tượng cho nền văn minh nhân loại.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 4.
+Đó là năm 1985, Diane Chase nhớ rằng bà đã cùng chồng, nhà khảo cổ học Arlen Chase đến từ Đại học Nevada, bắt đầu hành trình kéo dài gần một phần tư thập kỷ, lang thang trong những cánh rừng rậm nhiệt đới ở Trung Mỹ.
+
+Mục đích của họ là tìm kiếm Caracol, một thành phố được ghi lại trong truyền thuyết của người Maya cổ đại đã bị thời gian phá hủy và chôn giấu.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 5.
+Caracol thực ra là một cái tên hiện đại đã được đặt cho nó, trong tiếng Tây Ban Nha có nghĩa là "hình trôn ốc" – ngụ ý những con đường dẫn vào thành phố này rất quanh co và khúc khuỷu. Arlen và Diane đã cùng đoàn khảo cổ của mình phạt từng bụi rậm, dò từng bước chân để vẽ lên chiếc bản đồ kẻ tay đầu tiên kết nối các tàn tích mà họ tìm được.
+
+Thời gian đã đền đáp cho những nỗ lực liên tục. Sau 12 năm, các nhà khảo cổ đã khoanh vùng được một khu vực khoảng 16 cây số vuông với nhiều kiến trúc bao gồm hàng chục lăng mộ, đền thờ và các khu định cư của người dân Caracol.
+
+Nhưng càng tìm kiếm Arlen và Diane càng nhận ra những gì họ thấy chỉ mới là phần nổi của tảng băng chìm.
+
+Dưới vai trò là một trung tâm chính trị của Maya, quy mô của thành phố Caracol ít nhất phải gấp 10 lần những tàn tích đã được phát lộ. Cả Arlen và Diane đều nghĩ rằng họ sẽ không thể sống đến ngày toàn bộ thành phố cổ đại này được khám phá.
+
+Nhưng mọi chuyện đã thay đổi vào năm 2008.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 6.
+Đó là khi Arlen và Diane chuyển công tác đến Đại học Đại học Florida, họ đã gặp một nhà sinh vật học cũng đang làm việc ở đây, người chia sẻ rằng ông đang sử dụng một hệ thống LiDAR để lập bản đồ nghiên cứu các khu rừng và thảm thực vật.
+
+Người đồng nghiệp đề nghị Arlen và Diane hãy thử công nghệ này cho các nghiên cứu khảo cổ, vì biết đâu, nó cũng có ích. Thế là bộ đôi bắt đầu tìm hiểu.
+
+LiDAR viết tắt từ "Light Detection And Ranging" là một thuật ngữ chỉ công nghệ ứng dụng laser để đo đạc khoảng cách. Nó được phát triển ngay sau khi Theodore Maiman chế tạo ra thiết bị laser đầu tiên vào năm 1960.
+
+Không có gì phải ngạc nhiên, đo khoảng cách là một trong những ứng dụng đầu tiên mà con người nghĩ tới sau khi phát minh ra những chùm tia hẹp, phát xung siêu ngắn và có thể truyền đi rất xa này.
+
+Nguyên lý hoạt động của LiDAR rất đơn giản:
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 7.
+Bạn phát một tia laser chiếu từ vị trí của bạn tới mục tiêu, sau đó dùng một cảm biến để thu lại ánh sáng phản xạ. Bằng tốc độ ánh sáng và thời gian chênh lệch, bạn có thể tính ra khoảng cách tức thời giữa hai điểm bằng công thức d=c.t/2. Trong đó, d là khoảng cách, c là tốc độ ánh sáng và t là thời gian.
+
+Một hệ thống LiDAR cơ bản nhất mà bạn có thể thấy ngày nay là những chiếc thước laser của thợ xây, có giá chỉ vài trăm ngàn trên Shopee. Cho đến máy đo khoảng cách chuyên dụng có giá vài triệu đến vài chục triệu.
+
+Nếu bạn chưa biết thì camera của những chiếc iPhone 12 Pro trở lên cũng được trang bị hệ thống LiDAR, nhằm giúp lấy nét chính xác, tăng cường khả năng xóa phông và có thể sử dụng như một chiếc thước đo.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 8.
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 9.
+Phổ biến trong thế kỷ 21 là vậy, nhưng trở lại thập niên 1960, LiDAR là một công nghệ được xếp vào dạng siêu tiên tiến. Nó chỉ được sử dụng bởi quân đội và các tổ chức nghiên cứu lớn như NASA.
+
+Trong diễn tập và trên chiến trường, lần đầu tiên những người lính đã có thể đo được khoảng cách tới mục tiêu chính xác và tức thời. Cơ quan Hàng không Vũ trụ Mỹ có thể theo dõi vị trí vệ tinh của họ. Và trong sứ mệnh Apollo 15, LiDAR còn giúp NASA vẽ một tấm bản đồ bề m ặt Mặt Trăng.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 10.
+Với laser, bạn có thể phát ra hàng trăm ngàn xung ánh sáng mỗi giây và thu về hàng trăm ngàn phản xạ tương ứng. Khi đã có vị trí của từng điểm phản xạ được thu thập, một hệ thống LiDAR có thể cho phép lập bản đồ 3D thực địa với độ phân giải lên tới 3 cm trên mỗi pixel ảnh.
+
+Cũng bởi vậy mà ngay từ thập niên 1970, công nghệ này đã được sử dụng trong khảo cổ học để quét và tái tạo các tàn tích, công trình kiến trúc như pháo đài cổ ở Châu Âu, hoặc lập bản đồ các khu vực trống trải.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 10.
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 12.
+Những tàn tích Maya bên dưới những cánh rừng nhiệt đới Trung Mỹ - thật không may, phải chờ tới 4 thập kỷ sau đó.
+
+Đây là khoảng thời gian để công nghệ LiDAR có thể được phát triển tới độ nhạy cần thiết, cho phép nó nhìn xuyên được qua những tán rừng và bụi rậm dày đặc, loại bỏ nhiễu xạ từ lá cây và tiết lộ tàn tích mà mặt đất đang che giấu.
+
+
+Arlen và Diane đã chớp lấy thời cơ đó vào năm 2008. Họ đã trở thành những nhà khảo cổ học đầu tiên bỏ bay và chổi ra khỏi túi áo mình, để leo lên một chiếc máy bay cánh bằng và điều khiển hệ thống LiDAR quét xuống bên dưới những cánh rừng ở Trung Mỹ.
+
+Công việc được ví như những nhát xẻng ánh sáng được đào xuống từ bầu trời, cuối cùng đã tiết lộ những điều mà không một nhà khảo cổ nào có thể hình dung được về tàn tích của thành phố Caracol và cả những khu vực khác của nền văn minh Maya rộng lớn.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 14.
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 15.
+Đó là lời thú nhận của Diane và Arlen khi họ nhìn vào những dữ liệu đầu tiên mà LiDAR thu thập được ở khu vực Trung Mỹ. "Chúng tôi kinh ngạc đến vô cùng. Không ai mong đợi những hình ảnh này có thể rõ ràng đến thế", Arlen nói.
+
+Tấm bản đồ mà LiDAR tái tạo hoàn toàn trùng khớp với bản đồ thủ công mà bộ đôi Arlen và Diane đã thiết lập. Nhưng điều đáng nói là LiDAR chỉ mất một tuần với vài chuyến bay để hoàn thành công việc mà các nhà khảo cổ đã làm trong suốt 25 năm cất công lặn lội trong rừng rậm.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 16.
+Một trong những khu vực mà Arlen và Diane tự tin đã nghiên cứu kỹ lưỡng nhất là 3,5 cây số vuông ruộng bậc thang của người dân Caracol. LiDAR bây giờ tiết lộ con số đó là 150 km2 chứ không phải chỉ là 3,5 cây số.
+
+Tấm bản đồ cũng phát lộ ra hàng nghìn tòa nhà, 11 tuyến đường thủy, 60 hang động và tới 1.400 hồ điều hòa trong khu vực. Điều đáng nói là tất cả những tàn tích này đều mới, một số còn nằm ngay trong khu vực mà các nhà khảo cổ trước đây đã khảo sát dưới thực địa.
+
+Điều đó có nghĩa là họ đã bỏ quên chúng, dẫm chân lên chúng, đi bộ qua chúng mỗi ngày mà không hề phát hiện ra
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 17.
+"Khi đi bộ trong rừng, bạn sẽ có những điểm mù trong tầm nhìn của mình", giáo sư nhân chủng học Marcello Canuto tới từ Đại học Tulane, Hoa Kỳ cho biết. "Giả sử như khi tôi cuốc bộ qua một ngôi đền cao 20 mét, tôi sẽ nhìn thấy nó. Nhưng tôi sẽ không thể nhìn thấy những thứ có quy mô lớn hơn thế, trải rộng trên một không gian hoặc khoảng cách kéo dài, chẳng hạn như một con đường".
+
+Nếu bạn chưa biết, bên cạnh kim tự tháp, quảng trường và những đền thờ, nền văn minh Maya còn nổi tiếng với những hệ thống đường trên cao, được ví như những xa lộ dát vàng dưới ánh trăng.
+
+Những con đường này được người Maya thiết kế để kết nối các khu vực định cư với nhau như những tuyến đường giao lưu, thương mại và trao đổi văn hóa. Chúng được xây từ đá, kết dính bằng xi măng làm từ bùn và đá vôi, tương tự như cách mà họ xây dựng kim tự tháp.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 18.
+Các khối đá sẽ được xếp chồng lên nhau tới độ cao 3-5 mét, thành hai hàng song song và cách nhau từ 10-40 mét. Sau đó, đất được đổ vào giữa khoảng trống cho tới khi có thể san phẳng. Người Maya sẽ lát một lớp thạch cao trắng và dày lên trên cùng.
+
+Muốn bếp có guu, chọn Hawonkoo
+Xem ngay
+iTVC from Admicro
+Vào ban đêm, chính lớp thạch cao này sẽ phản chiếu ánh trăng và biến chúng thành một con đường dát vàng.
+
+"Vùng Maya không có bất kỳ động vật thồ hàng nào… và chúng tôi không nghĩ rằng họ có các phương tiện lăn bánh trên những con đường đắp cao này như xe ngựa, nhưng chúng chắc chắn được chế tạo để mọi người có thể tương tác, giao tiếp và đi lại", giáo sư Canuto cho biết.
+
+Có điều trải hàng ngàn năm, những con đường đắp cao này thường biến mất trong quá trình phong hóa. Dây leo bám lên chúng, mưa làm xối đất và rễ của những cây cổ thụ vò nát từng khối đá.
+
+Đường đắp cao chính là loại hình kiến trúc Maya khó được phát hiện nhất trên thực địa. Sẽ rất dễ để bạn đi qua một gò đất rộng 40 mét mà không hề nhận ra đó là một con đường cổ đại: "Suốt nhiều năm, tôi vẫn đi qua đi lại gò đất này mà chưa từng một lần nhận ra nó", giáo sư Canuto nói. "Bởi vậy khi nhìn thấy ảnh LiDAR, tôi đã phải thốt lên "Ôi Chúa ơi, đó là một con đường"".
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 17.
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 20.
+Trong một khảo sát mới nhất với LiDAR được thực hiện vào năm ngoái, các nhà khảo cổ đã lần đầu tiên phát hiện 177 km đường đắp cao của người Maya trong một lưu vực được gọi là đá vôi Mirador-Calakmul (CKMC) phía bắc Guatemala.
+
+"Đó là hệ thống 'siêu xa lộ' đầu tiên trên thế giới mà chúng tôi biết đến, điều đáng kinh ngạc về những con đường đắp cao là chúng liên kết các thành phố lại với nhau như một mạng nhện… tạo thành một xã hội sớm nhất và đầu tiên ở Tây bán cầu", Richard Hansen, giáo sư về nhân chủng học tại Đại học Bang Idaho nhận định.
+
+Bên cạnh đó, nghiên cứu này còn phát lộ thêm 964 khu định cư của người Maya được chia thành 417 thành phố, thị trấn và làng mạc. Chúng được xác định trong lưu vực rộng khoảng 1.700 cây số vuông và có niên đại từ khoảng những năm 1.000 Trước Công Nguyên.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 21.
+Hệ thống LiDAR mà nghiên cứu này sử dụng chính là thứ đã được lắp trên chiếc Cessna 206 mang mã hiệu C-GVSCt. Nó cho phép lập bản đồ 3D với độ phân giải lên tới 15 cm/pixel chiều rộng và 30 cm/pixel chiều cao.
+
+Nhờ vậy, các nhà khảo cổ có thể tính toán được chính xác quy mô của các cấu trúc mà họ đã quét qua, từ nhà cửa, đền thờ, cho đến các kim tự tháp.
+
+Chẳng hạn như Danta, một kim tự tháp nằm ở phía đông khu vực khảo sát cao 72 mét, dài 600 mét và rộng 320 mét. Thể tích của nó lên tới 2.816.016 mét khối, lớn hơn cả kim tự tháp Giza, Ai Cập. Các nhà khảo cổ tính toán Danta được tạo thành từ 205.508 khối đá vôi có kích thước trung bình 1,3x0,45x0,4 mét.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 20.
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 23.
+Tất cả những con số chính xác tới hàng đơn vị cho thấy sức mạnh mà LiDAR mang lại. Nhờ đó, các nhà khảo cổ có thể tiếp tục các suy đoán. Họ cho rằng chỉ riêng việc khai thác đá cho kim tự tháp này đã tiêu tốn gần 160 nhân công làm việc liên tục trong 5 năm.
+
+Thời gian để xây xong nó là từ 6 triệu – 10 triệu ngày công lao động. Con số chứng minh cho sự phát triển của nền văn minh Maya ở thời điểm đó. Những kim tự tháp khổng lồ này là thứ mà không một xã hội cấp thấp nào có thể xây dựng được.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 24.
+Giáo sư Canuto chính là người đã thực hiện một trong những khảo sát LiDAR lớn nhất tại khu vực Trung Mỹ. Năm 2018, ông cùng nhóm của mình đã sử dụng những tia laser để quét qua những khu rừng tươi tốt ở Peten, Guatemala.
+
+Trong một khu vực có diện tích 2.000 cây số vuông, ảnh từ LiDAR đã tiết lộ hơn 61.000 công trình kiến trúc ẩn giấu dưới lớp màn xanh dày đặc cây cối, cây dây leo và cỏ dại. Những kim tự tháp khổng lồ, những con đường dát vàng và cả những pháo đài cổ đại tiếp tục là minh chứng không thể chối cãi cho quy mô của nền văn minh Maya cổ đại.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 25.
+Nếu như các phát hiện lẻ tẻ trên khảo sát thực địa trước đây gợi ý rằng Maya là một nền văn minh tuy phát triển, nhưng xã hội của họ phân bố khá rải rác và dân số chỉ đạt tới mức cực thịnh ở khoảng 5 triệu người, thì LiDAR bây giờ đã kể một câu chuyện hoàn toàn khác.
+
+"Với dữ liệu mới này, không hề vô lý khi nghĩ rằng phải có từ 10-15 triệu người Maya từng ở đó – họ sống được cả bên dưới những vùng trũng thấp, có nhiều đầm lầy mà nhiều người trước đây nghĩ rằng họ không thể ở được", Francisco Estrada-Belli, một nhà khảo cổ tại Đại học Tulane cho biết.
+
+Nhờ vào hệ thống đường trên cao, ruộng bậc thang, cùng hàng chục ngàn hồ chứa và điều tiết nước, người Maya đã có thể cải tạo những vùng đất trũng thấp và kiến thiết một nền văn minh sánh ngang với Hy Lạp và Trung Quốc cổ đại.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 26.
+"Mô hình cũ ám chỉ Maya chỉ là một xã hội phi đô thị, có dân số thấp và đạt tới một mức độ phức tạp, hội nhập chính trị xã hội thấp. Nhưng bây giờ, chúng ta có thể nói điều đó là phi lý", giáo sư Canuto nói.
+
+"Người Phương Tây có quan niệm rằng các nền văn minh phức tạp không thể phát triển ở vùng nhiệt đới, nhiệt đới chỉ là nơi mà các nền văn minh chết đi. Với bằng chứng mới dựa trên các khảo sát LiDAR ở Trung Mỹ và Angkor Wat [Campuchia], giờ đây, chúng ta cũng phải xem xét lại mệnh đề đó. Các xã hội phức tạp vẫn có thể hình thành ở vùng nhiệt đới và sau đó phát triển rộng ra các vùng lân cận".
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 27.
+Nhưng LiDAR đã thay đổi cái nhìn của các nhà khảo cổ không chỉ về nền văn minh Maya, mà cả cách thức các nghiên cứu khảo cổ được thực hiện. 15 năm trước khi Arlen và Diane quét những tia laser đầu tiên xuống rừng rậm Trung Mỹ, hầu hết các nghiên cứu khảo cổ chỉ được bắt đầu từ một trong hai cách:
+
+Hoặc là từ một khảo sát thực địa trên mặt đất, trong đó các nhà nghiên cứu sẽ đánh dấu bất kỳ khu vực hoặc đối tượng tiềm năng nào mà họ nghĩ cần điều tra thêm. Hoặc là từ một khảo sát toàn cảnh bằng máy bay hoặc máy bay không người lái. Cả hai cách tiếp cận đều bị cản trở bởi những cánh rừng nhiệt đới rậm rạp.
+
+LiDAR bây giờ đã xóa bỏ rào cản đó. Estrada-Belli cho biết: "Công nghệ này đang cách mạng hóa ngành khảo cổ học theo cách mà Kính viễn vọng Không gian Hubble đã cách mạng hóa ngành thiên văn học".
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 28.
+Đến thời điểm này, nó đang được sử dụng bởi các nhà khảo cổ học trên khắp thế giới. Ở Canada, LiDAR đã giúp tái hiện lại cuộc bao vây pháo đài Beauséjour vào năm 1755, nhờ các cấu trúc mà nó phát hiện không thể được nhìn thấy bằng mắt thường hoặc ảnh chụp trên không.
+
+Tại Honduras, LiDAR đã giúp các nhà khảo cổ phát hiện ra thành phố huyền thoại La Ciudad Blanca, hay còn gọi là "thành phố của Thần Khỉ". Ở Campuchia, công nghệ này đã giúp làm nổi bật những thay đổi do con người gây ra xung quanh khu vực đền thời Angkor Wat.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 29.
+Có tầm quét rộng, độ phân giải cao và khả năng tiếp cận mọi loại địa hình, thứ duy nhất ngăn cản LiDAR đến tay các nhà khảo cổ học chỉ là mức giá tương đối đắt đỏ của nó. Tại thời điểm Arlen và Diane thực hiện những khảo sát của mình, họ phải chi 350 USD cho mỗi km2 trên bản đồ LiDAR.
+
+Trái với suy nghĩ của nhiều người rằng công nghệ phát triển sẽ giúp chi phí giảm đi, mỗi một km vuông bản đồ LiDAR năm 2019 vẫn có giá lên tới gần 800 USD. Và đó đã là giá mua sỉ, một tấm bản đồ LiDAR 90 km vuông được giảm giá sâu vẫn có giá lên tới 62.000 USD (tương đương 1,5 tỷ VNĐ).
+
+Mức giá gia tăng đến từ việc công nghệ LiDAR đã liên tục được cải tiến, để đạt tới độ phân giải và khả năng đâm xuyên lớn hơn. Chẳng hạn, một công nghệ LiDAR thế hệ mới được gọi là Geiger cho phép lấy một lúc 205 triệu mẫu mỗi giây.
+
+Mỗi mét vuông địa hình có thể được quét hàng nghìn lần chỉ trong một lần máy bay bay qua. Nó cho phép các nhà khảo cổ nhìn thấy những chi tiết ẩn dưới tán cây mà công nghệ LiDAR cũ không thể nhìn thấy.
+
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 31.
+Mặc dù vậy, vẫn có những cơ hội tiếp cận LiDAR giá rẻ. Trong khi giá các loại bản đồ LiDAR chất lượng cao đang tăng, thì công nghệ LiDAR cũng được cải tiến để có thể thu nhỏ và tích hợp vào máy bay không người lái.
+
+Ví dụ, một thiết bị DJI Phantom IV RTK tích hợp camera LiDAR hiện chỉ có giá hơn 5.000 USD. Đây là một giải pháp giá rẻ để tiếp cận công nghệ này với các nghiên cứu thực địa trên phạm vi hẹp.
+
+Nhưng ngay cả khi phải chi hàng trăm USD cho mỗi km vuông bản đồ LiDAR, các nhà khảo cổ vẫn thấy đó là một mức giá tối ưu hơn nhiều so với khảo sát thực địa.
+
+Arlen và Diane cho biết để thực hiện các cuộc khai quật trong rừng rậm, họ đã tốn hàng đống tiền cho việc đi lại, sinh hoạt, thuê nhân công, dựng trại… Đó là chưa kể tới hàng ngàn rủi ro mà họ phải đối mặt trong những chuyến thực địa vào rừng rậm, và khoảng thời gian mà họ tiết kiệm được.
+
+Ánh sáng từ bầu trời chiếu rọi những tàn tích Maya cổ đại: Kim tự tháp, siêu đô thị và những con đường dát vàng dưới trăng - Ảnh 32.
+"Một dự án khảo cổ có thể mất 10 năm để khai quật, điều tra hoặc lập bản đồ một địa điểm. Bạn có thể lập bản đồ 20 hoặc 30 km vuông trong khoảng thời gian một thập kỷ, với điều kiện bạn thực sự giỏi", giáo sư Canuto nói.
+
+"Nhưng bây giờ, với LiDAR, đột nhiên bạn nhận được dữ liệu chính xác trên 300 km vuông trong vòng sáu tháng. Đây thực sự là một công nghệ tuyệt vời, nó giống một món quà từ Chúa dành cho các nhà khảo cổ học".
+
+Tham khảo Nytimes, BBC, Theguadian, Natgeo, Arstechnica, Gislouge, Geoilenergy, Nytimes, Natgeo, Howstuffworks, Caracol, NPR, Inverse,
+
+Thanh Long - Thành Đạt
+
+
+Ngành khảo cổ học đang được cách mạng hóa nhờ các kỹ thuật scan từ xa sử dụng laser để dò tìm những di tích ngầm dưới lòng đất. Công nghệ laser cung cấp những hình ảnh rõ ràng về bề mặt trái đất và giúp cho các nhà khảo cổ Đức khám phá hàng ngàn di tích mới.
+
+Glauberg là điểm nóng đối với các nhà khảo cổ học. Trong suốt nhiều thập niên, các nhà nghiên cứu tích cực điều tra khu cao nguyên ở bang Hesse miền Trung nước Đức, nơi con người bắt đầu sinh sống cách đây khoảng 7.000 năm.
+
+Vào thời Trung cổ, người ta đã xây dựng những lâu đài cao ngất và các nhà nghiên cứu tìm thấy rất nhiều đồ tạo tác trong khu vực Glauberg. Năm 1966, họ có được khám phá  ngoạn mục: Bức tượng chiến binh người Celt được gọi là “Hoàng tử Celt” ở Glauberg. Đó là những gì diễn ra trước khi có công nghệ laser.
+
+Hiện nay, giới khảo cổ học sử dụng máy bay lượn lờ nhiều lần bên trên cao nguyên Glauberg, phóng xuống mặt đất những loạt xung ánh sáng rồi đánh giá kết quả phản hồi. Công nghệ dò tìm bằng ánh sáng này - gọi là LIDAR - giúp các nhà khoa học thu thập dữ liệu rồi sau đó phân tích trên máy vi tính. Hình ảnh 3D của bề mặt trái đất sẽ tiết lộ bất cứ cấu trúc nào ẩn tàng dưới lòng đất.
+
+Nhờ công nghệ LIDAR mà các nhà khoa học đã phát hiện nhiều cổ mộ ngầm mà trước đây họ không "nhìn thấy" được ở cao nguyên Glauberg - theo Axel Posluschny, người phụ trách Dự án khảo cổ học châu Âu (ArcLand) của Viện Khảo cổ Đức.
+
+Khoảng 75 trường đại học và trung tâm nghiên cứu ở châu Âu tham gia dự án - bắt đầu vào năm 2010 và kết thúc năm 2015 - trị giá 5 triệu euro. Mục đích là tăng cường sử dụng công nghệ cảm biến từ xa, mà LIDAR là một ví dụ, radar xuyên lòng đất và các kỹ thuật điện từ khác phục vụ công tác khảo cổ. Trong những năm gần đây, công nghệ cảm biến từ xa được sử dụng mang lại nhiều thành quả ngoạn mục. Glalberg không phải là địa điểm đầu tiên được "khai quật" nhờ công nghệ hiện đại.
+
+Ví dụ, thung lũng Boyne ở Ireland cũng chứa đựng 3 di tích tiền sử. Một nhóm nhà khoa học trong dự án nghiên cứu mang tên "Chương trình Khám phá" sử dụng laser để quét cả khu vực và phát hiện nhiều ngôi cổ mộ nhỏ, hầm mộ cũng như các công trình công cộng thời kỳ đồ đá. Bản đồ thiết lập cho thấy rất nhiều điểm đáng quan tâm về mặt khảo cổ.
+
+
+Bức không ảnh công nghệ cao Thung lũng Boyne ở Ireland có được nhờ công nghệ LIDAR.
+Công nghệ LIDAR cũng cho phép các nhà khảo cổ có được những khám phá bất ngờ tại những khu vực không có gì đáng chú ý. Ví dụ, trong khu rừng gần thành phố Goppingen thuộc bang Baden Wurttemberg miền Nam nước Đức, các nhà khảo cổ tìm thấy cả một hệ thống công sự ngầm với bức tường cao từ 3 đến 4 mét. Jorg Bofinger, quan chức của cơ quan bảo tồn lịch sử ở Stuttgart, hy vọng việc sử dụng những kỹ thuật công nghệ cao hiện đại như LIDAR sẽ giúp các nhà khảo cổ có thêm nhiều khám phá bất ngờ hơn nữa.
+
+Giới khảo cổ học bắt đầu sử dụng các bức không ảnh thông thường từ thập niên 80 thế kỷ trước để khám phá nhanh nhiều cấu trúc không thể nhận ra từ mặt đất mà chỉ có thể nhìn thấy từ trên cao. Điều này đặc biệt đúng đối với những cấu trúc quy mô như là những công sự ở Cornesti miền Tây Romania có từ thời kỳ đồ đồng, hay cách đây chừng 3.500 năm. Chỉ riêng khu vực trung tâm bên trong 4 công sự đồng tâm này đã chiếm diện tích 6km2.
+
+Hình ảnh càng tốt hơn khi sử dụng kỹ thuật mang tên phép quang trắc (photogrammetry). Tuy nhiên, vấn đề đối với những bức không ảnh này là quang cảnh thường bị che khuất bởi những đồng cỏ hay cánh đồng lúa mì. Ngoài ra, những bức không ảnh thông thường không thể cho thấy những gì bị che giấu bên dưới khu rừng rậm.
+
+Do đó, các công nghệ cảm biến từ xa đã cách mạng hóa các phương pháp khai quật khảo cổ. Công nghệ LIDAR giúp khắc phục khuyết diểm của những bức không ảnh thông thường, đồng thời cung cấp những hình ảnh 3D sắc sảo hơn nhiều. LIDAR có thể scan cả khu vực cực kỳ rộng lớn, ví dụ như toàn bộ bang Baden-Wurttemberg của nước Đức! Ngoài ra, 160 terabyte dữ liệu thu thập được nhờ LIDAR sẽ được máy vi tính tự động xử lý trong thời gian nhanh nhất để cung cấp thông tin về những di chỉ khảo cổ.
+
+Nhờ sự tiến bộ của công nghệ hiện đại mà các nhà khảo cổ học đã phát hiện khoảng 3.000 địa điểm khảo cổ trong khu vực gọi là Rừng Đen chiếm diện tích xấp xỉ 2.000 km2 ở miền Nam nước Đức. Nếu như trước đây những bức không ảnh thông thường chỉ cho thấy khu rừng rậm thông thường, thì hiện nay công nghệ LIDAR giúp các nhà khảo cổ học nhìn thấy rõ được bên dưới nó là những lò than củi, những luống cày, những cấu trúc mỏ, công sự và cả những ngôi mộ cổ.
+
+Thậm chí ánh sáng laser cũng lột trần những cấu trúc nằm ẩn sâu bên dưới mặt nước trong khi trước kia người ta chỉ có thể phát hiện những cấu trúc ở vùng nước cạn ven bờ.
+
+Thêm nữa là, có nhiều công nghệ hiện đại khác cho phép giới khảo cổ học "nhìn thấy" những di tích ngầm mà không cần phải di chuyển hàng núi đất đá. Ví dụ, công nghệ radar xuyên lòng đất gọi là "radar địa chất" có thể dò tìm những đường hào hay những chỗ đất lún ngầm ở độ sâu 2 mét. Hoặc là, công nghệ cảm ứng điện từ giúp dò tìm những cấu trúc chôn sâu dưới lòng đất hàng ngàn năm.
+
+Trong những năm sắp tới, công việc tìm kiếm những di chỉ khảo cổ từ trên không có thể trở thành phương pháp chuẩn cho ngành khảo cổ bởi vì giá cả công nghệ ngày càng hạ. Cách đây chỉ vài năm, các nhà nghiên cứu phải chật vật lắm mới có được máy bay để thu thập hình ảnh nhưng bây giờ đã có những chiếc máy bay không người lái tiện dụng phục vụ công tác điều tra quá khứ
+
+
+Các công nghệ nổi bật có thể sớm cho phép các nhà khảo cổ học khai quật toàn bộ địa điểm trong vòng một giờ.
+
+
+
+Bằng nhiều cách, ngành khảo cổ vẫn được tiến hành như cách thức mà nó vẫn diễn ra trong nhiều thế kỉ qua. Một nhóm khảo cổ đơn lẻ có thể phải làm việc tại một địa điểm đào bới nào đó trong vòng 40 năm, cẩn thận khai quật, nghiên cứu, bảo quản và ghi lại những phát hiện của mình mà họ hầu như không làm trầy xước bề mặt.
+
+Nhưng vào năm 2119, toàn bộ hoạt động có thể sẽ hoàn toàn khác đi. Các công nghệ nổi bật có thể sớm cho phép chúng ta khai quật toàn bộ địa điểm trong vòng một giờ, mà hầu như không làm xáo trộn một mét vuông đất trong quá trình này.
+
+Hãy tưởng tượng một gò đất rộng 500 mét vuông với các phần của hệ thống tường cổ có thể nhìn thấy được trong lòng đất. Thay vì có một đội ngũ các nhà khảo cổ cẩn thận phủi bụi và bỏ các mảnh vỡ vụn để ghi chép và phân tích địa điểm cổ đại này trong nhiều thập kỷ, hãy tưởng tượng một hạm đội máy bay không người lái được trang bị thiết bị LIDAR, hồng ngoại và hệ thống cảm biến siêu âm bay qua gò đất để phát hiện kiến trúc dưới mặt đất với độ chính xác cao chỉ trong vài phút. Một kĩ thuật viên đọc các hình ảnh 3D được tạo ra bởi bản scan sẽ thấy rõ các điểm của khu vực tang lễ, hành chính, dân cư và nhà xưởng được chôn sâu dưới đất ngay trước mặt. Sự phân chia màu sắc trên màn hình sẽ chỉ ra các giai đoạn xây dựng sớm và muộn hơn, so sánh các tòa nhà với cơ sở dữ liệu nội bộ của hàng ngàn trường hợp khác nhau.
+
+Một phi đội máy bay không người lái khác sau đó sẽ đáp cách nhau khoảng một mét trên khắp địa điểm, khoan lỗ bằng tia laser mạnh và bắn các đầu dò bút chì rộng khoảng 7 mét xuống đất. Sóng siêu âm từ các đầu dò này sẽ đọc để tạo ra các mô hình hoàn chỉnh của cấu trúc, vật thể được chôn dưới địa điểm này.
+
+Những robot thu nhỏ sau đó sẽ đào sâu xuống “điểm nóng” để thu thập mẫu vật như xương để làm xét nghiệm DNA. Chúng sẽ scan và gửi hình ảnh trở lại trên mặt đất, bằng cách này các vật chất cổ sẽ không bị xáo trộn.
+
+Một máy tính sẽ phân tích lịch sử của địa điểm này dựa trên những thông số đầu vào:
+
+“Địa điểm này được chiếm đóng vào năm 3225 trước công nguyên, với khoảng 200 người sinh sống tại đây. Sau đó mở rộng thành thành phố nhỏ vào khoảng năm 2000 đến 2478 trước công nguyên. Sự mổ rộng lãnh thổ dựa trên việc dòng sông thay đổi, cùng với việc gia tăng giao thương hàng hóa quốc tế và là bằng chứng của một giai cấp thống trị giàu có.
+
+Năm 2310 trước Công nguyên, thủ lĩnh thành lập đội quân độc lập và giành quyền kiểm soát.
+
+Một cơn hạn hán cách đây 4300 năm đã gây ra tình trạng bỏ hoang quy mô lớn trong khu vực này.
+
+Đến năm 1800 trước công nguyên, một thị trấn khoảng 500 người lại xuất hiện trở lại với một người cai quản địa phương. Sau đó là thời kỳ đói kém, bệnh tật và tất cả bị thiêu rụi vào khoảng năm 1177 trước công nguyên.
+
+Với việc xây dựng đường chủ đạo có thu phí, khu vực này có hơn 2,000 người sinh sống trong thời kỳ La Mã.
+
+Chiến tranh đã tàn sát hết những người đàn ông trẻ tuổi đến tuổi trung niên vào khoảng năm 146 sau Công nguyên, bằng chứng là sự thiếu cân đối trong số lượng hài cốt của phụ nữ và trẻ em. Có thể tất cả bọn họ đã bị bắt làm nô lệ”
+
+Tất cả những điều này có thể được làm trong vòng khoảng một giờ, sau đó máy in 3D có thể tái tạo lại các kho báu được tìm thấy qua bản scan – bằng vàng, ngọc lưu ly hay bất cứ chất liệu phù hợp với thời đại nào khác.
+
+Hiểu rõ một khu vực trong vòng một giờ rõ ràng là giống với tưởng tượng hơn thực tế, những các nhà khảo cổ học đã sử dụng các công nghệ mà vài thế hệ đã bỏ qua chúng để thực hiện nhiệm vụ tương lai này. Những công nghệ này có thể không được thu nhỏ, hoặc như di động hoặc có số lượng cảm biến cần thiết được gắn vào, nhưng nghĩ về việc các công nghệ chúng ta sử dụng ngày nay đã phát triển nhanh và nhiều thế nào, tôi có thể cảm nhận được thế giới của năm 2119 đang tới gần.
+
+Đã có các công cụ viễn thám được gắn vào bất cứ thứ gì chúng ta có thể đưa lên khỏi mặt đất, từ vệ tinh đến máy bay trực thăng hay máy bay không người lái. Máy bay không người lái điển hình được sử dụng cho khảo cổ học có đường kính khoảng 50cm, nhưng công nghệ này ngày càng nhỏ hơn nữa. Trước năm 2015, khối lượng của thiết bị viễn thám càng nặng thì máy bay không người lái càng lớn và đôi khi bạn phải sử dụng cả máy bay hoặc máy bay trực thăng. Giờ đây, một máy bay không người lái tiêu chuẩn có thể dễ dàng nâng hệ thống LIDAR và camera hồng ngoại hay camera siêu nhạy. Tất cả các công nghệ này đã được thu nhỏ đáng kể trong thập kỉ qua: một camera hồng ngoại tốt giờ đây có cùng kích thước với điện thoại thông minh. Có các phiên bản thu nhỏ hoàn toàn bằng lòng bàn tay của máy bay không người lái trong một trăm năm kể từ bây giờ có vẻ không còn là điều tưởng tượng nữa.
+
+Hình ảnh siêu âm là chân trời thú vị khác cho viễn thám khảo cổ. Máy quang phổ cầm tay (thường được sử dụng bởi các nhà địa chất những vẫn khá mới mẻ đối với các nhà khảo cổ học) có thể đo được chữ kí quang phổ của bất kì vật liệu nào dựa trên cấu trúc hóa học của nó. Khi các đặc tính bị chôn vùi trong khu vực bị xuống cấp, chúng giải phóng ra những mảnh vật liệu xây dựng nhỏ, từ từ hòa trộn với tầng phía trên. Dù điều này có thể không nhìn thấy được bằng mắt thường, chúng ta có thể ánh xạ những thay đổi này – được làm nổi bật bởi lượng mưa – bằng cách sử dụng dữ liệu hồng ngoại. Điều này cho phép chúng ta xác định vị trí phác thảo của các tòa nhà xây bằng gạch bùn hay nền móng định cư.
+
+Dữ liệu siêu âm cũng có thể cho phép các nhà khảo cổ xác định các khu vực hoạt động riêng biệt trên khu vực khảo cổ. Ví dụ như việc sản xuất gốm hay kim loại đòi hỏi phải được nung đốt trong nhiệt độ cao sẽ để lại dư lượng hóa chất rõ ràng chỉ ra đó là khu vực công nghiệp. Hàm lượng xương cao trong các nghĩa trang có thể làm thay đổi hàm lượng khoáng chất trong đất và tạo ra các mảnh vỡ có thể nhìn thấy được trên mặt đất, sẽ tạo ra các chữ kí quang phổ khác nhau.
+
+Mặc dù bối cảnh khoa học viễn tưởng đang đòi hỏi rất nhiều tính năng quét tại chỗ để phân tích các tài liệu giấy cuộn nhưng những tiến bộ lớn trong việc quét các văn bản và tác phẩm nghệ thuật cổ đã hình thành. Các nhà khoa học hiện sử dụng tia laser để làm sạch than muội khỏi các bức tường lăng mộ và làm sống lại các bức tranh tuyệt đẹp. Các hình ảnh tia X tương phản pha thậm chí có thể tái tạo lại các cuộn giấy cổ bị cháy từ khu vực Herculaneum của Ý, người anh em ít nổi tiếng nhưng thậm chí còn hấp dẫn hơn Pompeii, bị phá hủy bởi cùng một vụ phun trào núi lửa của đỉnh núi Vesuvius năm 79 sau Công nguyên. Các cuộn giấy cổ quá mỏng manh để mở ra và đọc nhưng công nghệ này có thể chọn ra các từ và chữ cái ẩn trong các tờ giấy bằng cói. Mặc dù cho đến nay, các tờ giấy vẫn chỉ là bằng chứng cho các khái niệm, nhưng các chuyên gia tin rằng họ sẽ sớm đọc được toàn bộ văn bản trên giấy.
+
+Chúng ta dường như còn cách xa hàng năm ánh sáng từ các robot đào bới nhỏ bé có khả năng khai quật và quét 3D được mô tả trong lý thuyết này. Nhưng nếu DARPA, Cơ quan Dự Án Nghiên cứu nâng cao Quốc phòng Hoa kỳ, có thể phát triển các robot nhỏ bé để nhìn xuyên qua các tòa nhà, tôi tin các robot nhỏ bé này trong tương lai không chỉ làm công việc đào bới hiện trường mà còn có thể quét các đặc tính dưới bề mặt đất mà không làm ảnh hưởng đến di tích cổ xưa.
+
+Và vì các robot đào bới ở dưới đất, nên dĩ nhiên rất hợp lý, nếu chúng thu thập mẫu vật để làm xét nghiệm hóa học và DNA. Xét nghiệm DNA trong khảo cổ đã trở nên phát triển đến mức các bệnh tật cụ thể có thể phân lập bằng cách lấy mẫu từ mảng bám răng của người cổ đại. Những khám phá gần đây bao gồm màu da của người mà chỉ còn là bộ xương 10,000 năm tuổi. Lĩnh vực y khoa có bước phát triển nhảy vọt thì tiềm năng xác định người cổ đại xuất hiện và lịch sử vật lý cũng như tạo ra dòng dõi có khả năng tồn tại hàng trăm ngàn năm.
+
+“Nếu bạn có thể nhập tất cả dữ liệu từ một khu vực và ngay lập tức so sánh từng tòa nhà, đối tượng, xương và công nghệ chính với các khu vực tương tự khác, việc vẽ bức tranh hoàn chỉnh là trong tầm tay”
+
+Chúng ta cũng đang tiến gần hơn đến học máy cần thiết để tổng hợp các phát hiện tại địa điểm khai quật giả tạo này. Vào lúc sắp kết thúc công việc, điều làm tiêu tốn nhiều thời gian của các nhà khảo cổ nhất chính là tìm kiếm các địa điểm đã được khám phá để chứng minh hoặc giải thích các phát hiện của họ. Sẽ rất tuyệt nếu có một cỗ máy làm việc đó cho bạn. Công cụ tìm kiếm như Google Ngram Viewer có thể tìm kiếm dữ liệu từ hàng triệu quyển sách chỉ để tìm ra phiên bản đầu tiên của từ hoặc mẫu sử dụng. Các nguyên tắc phần mềm tương tự cũng có thể được áp dụng để tìm bất cứ thứ gì “giống” các thứ khác, từ kế hoạch thành phố, các tòa nhà, các bức tường cho đến các đồ tạo tác bí ẩn. Nếu máy móc biết vật liệu, hình dáng, kích thước và công nghệ, nó có thể dễ dàng tìm ra sự tương đồng giữa các đối tượng trong cơ sở dữ liệu. Việc so sánh nhanh hơn so với suy nghĩ cũng có thể giúp tạo ra các bản dựng lại cấu trúc 3D hoàn thiện của khu vực hoặc đối tượng dựa trên các ví dụ đã được khai quật ở khắp các nơi khác.
+
+Công việc của chúng tôi kết thúc với phân tích khu vực từ máy tính với đầy đủ lịch sử với độ tin cậy cao. Đây có thể là phần bạn khó tin nhất. Các nhà khảo cổ cần phải mất hàng thập kỉ để mài giũa các kĩ năng khảo cổ và kĩ năng diễn giải để khi đến tuổi trung niên, chúng tôi có thể đưa ra các thông báo rộng rãi to lớn. Một giám đốc khảo cổ có thể viết một cuốn sách về khu vực bà đã làm việc ở đó 30 đến 40 năm, chỉ để thấy hầu hết các lý thuyết của bà ta bị các sinh viên của mình phản bác lại 10 năm sau. Đó là tất cả những gì có thể xảy ra.
+
+Nhưng nếu bạn có tất cả các dữ liệu đại diện cho hàng trăm năm làm khảo cổ và các công việc trong phòng thí nghiệm với thời gian tương đương, mà các robot giả lập này thu thập được thì tôi không hiểu tại sao không thể tổng hợp kết quả được ngay lập tức. Với các bộ dữ liệu từ các khu vực đơn lẻ, chúng ta cần sức mạnh tính toán rất lớn trong ngày để phân tích đầy đủ, không phải là năm năm, mà ít nhất 100 năm. Nếu bạn có thể nhập tất cả dữ liệu từ một khu vực và ngay lập tức so sánh từng tòa nhà, đối tượng, xương và công nghệ chính với các khu vực tương tự khác, việc vẽ bức tranh hoàn chỉnh là trong tầm tay.
+
+Trong tương lai, thay vì một nhóm khảo cổ 20 người công với lực lượng lao động địa phương và nhiều năm làm việc, một đội quân robot được điều khiển bởi khoảng 20 kĩ thuật viên có thể khám phá 100 địa điểm trở lên trong vòng 1 ngày. Khám phá vật lý, vừa tuyệt vời vừa thú vị, có thể được thực hiện hiệu quả hơn nhiều bởi các robot đại diện.
